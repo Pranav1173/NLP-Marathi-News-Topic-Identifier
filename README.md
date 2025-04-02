@@ -29,8 +29,8 @@ Two variants of the topic identification web app are provided in the repository:
 
 ## Output
 The Output/ folder contains visual examples of the web app’s predictions.
-Input `(1 Label)`:
-https://github.com/Pranav1173/NLP-Marathi-News-Topic-Identifier/blob/main/Output/Web-Input-1Label.jpg
+Input `(1 Label)`: ![Alt text](Output/Web-Input-1Label.jpg)
+
 ### To Run the Web App:
 
 ```bash
