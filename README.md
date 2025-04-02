@@ -27,6 +27,10 @@ Two variants of the topic identification web app are provided in the repository:
 - `main.py` – a feature-rich version with intelligent topic inference and a pie chart visualization  
 - `app-1-demo.py` – a simplified or demo variant for lightweight testing
 
+## Output
+The Output/ folder contains visual examples of the web app’s predictions.
+Input `(1 Label)`:
+https://github.com/Pranav1173/NLP-Marathi-News-Topic-Identifier/blob/main/Output/Web-Input-1Label.jpg
 ### To Run the Web App:
 
 ```bash
